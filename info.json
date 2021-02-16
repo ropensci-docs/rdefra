@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "75aff454de0d7af3ecb8ddc85a9bb200ee629c63",
+    "author": "claudia <claudia.vitolo@gmail.com>",
+    "time": "2021-02-16 15:09:59",
+    "files": 1,
+    "merge": false,
+    "message": "Minor cosmetic changes to DESCRIPTION\n"
+  },
+  "remote": "https://github.com/ropensci/rdefra",
+  "pkg": "rdefra"
+}
