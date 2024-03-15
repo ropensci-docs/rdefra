@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6f948c33195fd8c4bb2450949800c5c0bb274995",
+    "author": "olivroy <52606734+olivroy@users.noreply.github.com>",
+    "time": "2024-01-15 15:29:34",
+    "files": 1,
+    "merge": false,
+    "message": "Delete pkgdown workflow"
+  },
+  "repo": "https://github.com/ropensci/rdefra",
+  "pkg": "rdefra"
+}
